@@ -1,9 +1,0 @@
-smallAsteroid.hit
-
-self.body.hit = false
-
-newAsteroid.hit = false
-
-removed all references to reset
-
-updated all collisions
